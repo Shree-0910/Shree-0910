@@ -14,7 +14,7 @@
 - 🤖 **Machine Learning:** Classification, Regression, XGBoost, Random Forest, NLP  
 - 📚 **Libraries:** Pandas, NumPy, Scikit-learn  
 - 📊 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- 🌐 **Web & Tools:** React, Node.js, Streamlit, Git, GitHub  
+- 🌐 **Web & Tools:** Streamlit, Git, GitHub  
 - ☁️ **Cloud & APIs:** AWS, OpenAI API, Google Gemini API  
 
 ---
