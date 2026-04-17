@@ -1,5 +1,56 @@
 # 💫 About Me:
-🔭 I’m currently working in GTasterix Pvt Ltd<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+## 👋 Hi, I'm Shreyash Gade
+
+🎓 MS in Data Science | LJMU'26  
+📍 Pune, India  
+
+💡 I'm a Data Science and Machine Learning enthusiast with a strong foundation in building end-to-end ML pipelines and AI-powered applications. I enjoy transforming raw data into actionable insights and scalable solutions.
+
+---
+
+## 🔧 Tech Stack
+
+- 🐍 **Languages:** Python, SQL  
+- 🤖 **Machine Learning:** Classification, Regression, XGBoost, Random Forest, NLP  
+- 📚 **Libraries:** Pandas, NumPy, Scikit-learn  
+- 📊 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- 🌐 **Web & Tools:** React, Node.js, Streamlit, Git, GitHub  
+- ☁️ **Cloud & APIs:** AWS, OpenAI API, Google Gemini API  
+
+---
+
+## 🚀 Projects
+
+### 🔹 ML Automation Platform
+- Built an automated ML pipeline reducing experimentation time by **60%**
+- Supports preprocessing, encoding, scaling & multiple models
+- Achieved **92% accuracy** using XGBoost  
+
+### 🔹 AI Infographic Generator
+- Automated infographic creation from YouTube transcripts  
+- Reduced manual effort by **70%** using NLP + APIs  
+- Integrated Apify, Gemini API & Cloudinary  
+
+### 🔹 AI Chatbot
+- Developed multi-turn chatbot with session memory  
+- Built using OpenAI API & Streamlit  
+- Supports scalable and secure deployment  
+
+---
+
+## 💼 Experience
+**Front-End Developer Intern @ Maxgen Technology**
+- Built responsive website using HTML, CSS, Bootstrap  
+- Improved performance & reduced inconsistencies by **30%**
+
+---
+
+## 🎯 Current Focus
+- 📊 Data Analyst / Business Analyst Roles  
+- 📈 Real-world data projects  
+- 🤖 Advanced Machine Learning & AI applications  
+
+---
 
 
 ## 🌐 Socials:
