@@ -34,7 +34,14 @@
 ### 🔹 AI Chatbot
 - Developed multi-turn chatbot with session memory  
 - Built using OpenAI API & Streamlit  
-- Supports scalable and secure deployment  
+- Supports scalable and secure deployment
+
+### 🔹 AI-Powered YouTube Video Summarizer
+- Built end-to-end pipeline for audio extraction, transcription & summarization
+- Integrated yt-dlp, FFmpeg & Whisper for automated speech-to-text
+- Implemented DistilBART (HF Transformers) for fast, optimized summaries
+- Deployed interactive UI using Gradio for real-time results
+
 
 ---
 
@@ -46,7 +53,7 @@
 ---
 
 ## 🎯 Current Focus
-- 📊 Data Analyst / Business Analyst Roles  
+- 📊 Data Analyst / Data Scientist Roles
 - 📈 Real-world data projects  
 - 🤖 Advanced Machine Learning & AI applications  
 
